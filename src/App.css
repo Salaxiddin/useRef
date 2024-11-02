@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 5px;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+}
+li{
+  border-bottom: 2px solid #ccc;
+}
+ul{
+  max-width: 400px;
+  height: 200px;
+  overflow-y: scroll;
+  border: 2px solid #ccc;
+}
